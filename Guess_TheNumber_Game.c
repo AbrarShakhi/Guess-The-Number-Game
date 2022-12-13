@@ -13,9 +13,9 @@ int main() {
         scanf("%d", &guess);
         
         if(guess>gen_num)
-            printf("Guess a lower number please!\n");
+            printf("Guess lower number please!\n");
         else if(guess<gen_num)
-            printf("Guess a higher number please!\n");
+            printf("Guess higher number please!\n");
         else
             printf("You guessed it in %d attempts\n", number_of_guesses);
             
