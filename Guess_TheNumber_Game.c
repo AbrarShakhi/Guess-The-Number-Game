@@ -6,7 +6,7 @@ int main() {
     int gen_num, guess, number_of_guesses=1;
     srand(time(0));
     gen_num=rand()%100 + 1;
-printf("%d", gen_num);
+    
     printf("Computer has genarated a number from 1 to 100.\nTry to guess that number.\n");
     do {
         printf("Is it : ");
