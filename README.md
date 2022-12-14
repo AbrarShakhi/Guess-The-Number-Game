@@ -4,6 +4,7 @@ Computer will generate a random number between 1 and 100 and user have to guess 
 game is written in C language. 
 
 # How to play the game? 
-Download the binary file from up above it should look like - game.exe - After downloading it. open it.
+Download the binary file from up above it should look like - game.exe
+After downloading it. open it.
 If you find any errors create an issue. 
 # Abrar
