@@ -5,6 +5,8 @@ game is written in C language.
 
 # How to play the game? 
 Download the binary file from up above it should look like - game.exe
+# Is this file safe?
+definitely Yes.
 After downloading it. open it.
 If you find any errors create an issue. 
 # Abrar
