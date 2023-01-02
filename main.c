@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
+//
 int main()
 {
     int gen_num, guess, number_of_guesses, runner;
